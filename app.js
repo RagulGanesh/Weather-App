@@ -42,7 +42,7 @@ app.post("/",(req,res)=>{
 })
 
 // app.get("/",(req,res)=>{
-//     const url="https://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=94cd13c4ea4f1ab4c52c9e64bc783f00&units=metric"
+//     const url="https://api.openweathermap.org/data/2.5/weather?q=Hyderabad&appid=x&units=metric"
 //     https.get(url,(response)=>{
 //         console.log(response)
 //         console.log(response.statusCode)
